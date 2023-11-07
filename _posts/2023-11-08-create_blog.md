@@ -2,7 +2,7 @@
 layout: post
 title: "发博"
 date:   2023-11-07
-tags: [萌新]
+tags: [fresh]
 comments: true
 author: huheshuangxing
 ---
